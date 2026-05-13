@@ -2,7 +2,7 @@
 
 A simple Python utility to convert temperatures between Celsius, Fahrenheit, and Kelvin.
 
-## Usege
+## Usage
 
 ```python
 from converter import celsius_to_fahrenheit
@@ -10,7 +10,7 @@ from converter import celsius_to_fahrenheit
 print(celsius_to_fahrenheit(100))  # 212.0
 ```
 
-## Fuctions
+## Functions
 
 | Function | Description |
 |---|---|
